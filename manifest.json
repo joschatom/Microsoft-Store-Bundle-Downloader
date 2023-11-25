@@ -1,0 +1,6 @@
+{
+	"name": "Microsoft Store Bundle Downloader",
+	"version": "0.0.0.1",
+	"manifest_version": 3,
+	"description": "An exttendsion that adds a \"Download Bundle\" button to download the AppX Bundle for that App.\nCan be used to install offline and more."
+}
